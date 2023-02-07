@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20182133)
-[![Codewars](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://www.codewars.com/users/ChristianBorn/badges/large)
+[![Codewars](https://www.codewars.com/users/ChristianBorn/badges/large)](https://www.codewars.com/users/ChristianBorn/badges/large)
 
 
 # 💻 Tech Stack:
